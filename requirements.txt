@@ -7,4 +7,5 @@ dataclasses
 dill
 xgboost
 catboost
+flask
 # -e .
